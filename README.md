@@ -13,7 +13,7 @@ Welcome to **Paint Store**, a virtual paint department web project completed as 
 ## Screenshots
 
 <!-- Add screenshots of your project here -->
-![Paint Store Screenshot](screenshot.png)
+![Paint Store Screenshot](screenshots/Body.png)
 
 ## How to Use
 
