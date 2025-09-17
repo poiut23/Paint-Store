@@ -13,8 +13,9 @@ Welcome to **Paint Store**, a virtual paint department web project completed as 
 ## Screenshots
 
 <!-- Add screenshots of your project here -->
+![Paint Store Screenshot](screenshots/Header.png)
 ![Paint Store Screenshot](screenshots/Body.png)
-
+![Paint Store Screenshot](screenshots/Footer.png)
 ## How to Use
 
 1. Clone or download this repository.
